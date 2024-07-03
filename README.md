@@ -15,12 +15,8 @@ To run the programs in this repository, you need to have Python installed on you
 
 1. Clone this repository:
 
-   git clone https://github.com/yourusername/python-basics.git
+ (https://github.com/SREELAKSHMISUD/Python-programs-1.git)
 
-2. Navigate to the project directory:
-   ```sh
-   cd python-basics
-   ```
 
 ## Usage
 
