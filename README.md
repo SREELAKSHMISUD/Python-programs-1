@@ -12,6 +12,8 @@ This project is aimed at beginners who are learning Python programming. It cover
 ## Installation
 
 To run the programs in this repository, you need to have Python installed on your computer. You can download Python from the [official website](https://www.python.org/downloads/).
+or 
+Use Replit https://replit.com/~ and feel free to code and download as zip
 
 1. Clone this repository:
 
